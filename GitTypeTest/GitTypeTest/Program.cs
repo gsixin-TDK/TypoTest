@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("CCC");
             Console.WriteLine("branch test");
             Console.ReadLine();
             Console.WriteLine("This is from Gloden branch.");
