@@ -6,6 +6,7 @@
         {
 
             Console.WriteLine("CCC");
+            Console.WriteLine("branch test");
             Console.ReadLine();
             Console.WriteLine("This is from Gloden branch.");
             Console.WriteLine("This is from Gloden branch2.");
