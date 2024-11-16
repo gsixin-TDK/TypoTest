@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
 
+            Console.WriteLine("CCC");
             Console.ReadLine();
             Console.WriteLine("This is from Gloden branch.");
             Console.WriteLine("This is from Gloden branch2.");
