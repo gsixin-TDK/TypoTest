@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+
+            Console.ReadLine();
             Console.WriteLine("This is from Gloden branch.");
             Console.WriteLine("This is from Gloden branch2.");
             Console.WriteLine("Hello, World!");
